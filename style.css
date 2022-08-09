@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    height: 100px;
+    background-color: black;
+    
+}
+
+.Logo{
+    height: 80px;
+
+}
+
+.Foto1{
+    height: 300px;
+}
+
+main{
+    display: flex;
+    padding-top: 40px;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.titulo {
+    font-size: xx-large;
+    font-family: sans-serif;
+
+
+
+
+}
+
+
